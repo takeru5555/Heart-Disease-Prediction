@@ -35,3 +35,19 @@ To Predict Heart disease according to following metrics.
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+
+## Train Result: 
+ =======================
+Accuracy Score:  86.79%
+__________________________
+Classification Report: 
+               0      1  accuracy  macro avg  weighted avg
+precision  0.88   0.86      0.87       0.87          0.87
+recall     0.82   0.90      0.87       0.86          0.87
+f1-score   0.85   0.88      0.87       0.87          0.87
+support   97.00 115.00      0.87     212.00        212.00
+__________________________
+Confusion Matrix: 
+ [[ 80  17]
+ [ 11 104]] 
