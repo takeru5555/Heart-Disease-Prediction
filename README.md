@@ -2,9 +2,9 @@
 To Predict Heart disease according to following metrics.
 
 ## Description
-# age: 	Age of the patient in years.
-# sex: 	Gender of the patient (typically coded as 0 for female and 1 for male).
-# cp: 	Chest pain type (0 to 3):
+### age: 	Age of the patient in years.
+### sex: 	Gender of the patient (typically coded as 0 for female and 1 for male).
+### cp: 	Chest pain type (0 to 3):
   0: Typical angina
   1: Atypical angina
   2: Non-anginal pain
