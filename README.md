@@ -31,3 +31,7 @@ To Predict Heart disease according to following metrics.
 ### target	Diagnosis of heart disease (1 if presence, 0 if absence).
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
