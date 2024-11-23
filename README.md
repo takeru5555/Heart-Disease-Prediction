@@ -29,3 +29,5 @@ To Predict Heart disease according to following metrics.
 - 1: Fixed defect
 - 2: Reversible defect
 ### target	Diagnosis of heart disease (1 if presence, 0 if absence).
+
+![alt text](image.png)
