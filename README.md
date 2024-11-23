@@ -5,10 +5,10 @@ To Predict Heart disease according to following metrics.
 -age: 	Age of the patient in years.
 -sex: 	Gender of the patient (typically coded as 0 for female and 1 for male).
 -cp: 	Chest pain type (0 to 3):
- - 0: Typical angina
- - 1: Atypical angina
- - 2: Non-anginal pain
- - 3: Asymptomatic
+  0: Typical angina
+  1: Atypical angina
+  2: Non-anginal pain
+  3: Asymptomatic
 trestbps:	Resting blood pressure (in mm Hg) measured at the time of the test.
 chol:	Serum cholesterol level (in mg/dl).
 fbs: 	Fasting blood sugar (1 if > 120 mg/dl, 0 otherwise).
