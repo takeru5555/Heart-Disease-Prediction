@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
+from model import predict
 
 def submit_data():
     # Retrieve values from the input fields
@@ -35,7 +36,12 @@ def submit_data():
         "thal": thal
     }
     
-    messagebox.showinfo("Input Data", str(data))
+
+
+    prediction = predict(data)
+
+    messagebox.showinfo("Prediction Result", str(prediction))
+    
 
 # Create the main window
 root = tk.Tk()
