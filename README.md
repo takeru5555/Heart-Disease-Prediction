@@ -1,3 +1,6 @@
+## Description
+This GitHub project aims to predict heart disease based on various medical metrics such as age, sex, chest pain type, resting blood pressure, serum cholesterol level, fasting blood sugar, resting electrocardiographic results, maximum heart rate, exercise-induced angina, ST depression, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia. The project includes a trained model that achieves an accuracy score of 86.79% on the test data.
+
 ## Object
 To Predict Heart disease according to following metrics.
 
